@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Películas </title>
+  </head>
+  <body>
+    <a href="#terminos_con_A"> A </a>
+    <a href="#terminos_con_B"> A </a>
+    <a href="#terminos_con_C"> A </a>
+    <a href="#terminos_con_D"> A </a>
+    <a href="#terminos_con_E"> A </a>
+    
+    <a name="terminos_con_A"> Astucia: Habilidad para comprender las cosas y obtener provecho o beneficio mediante engaño o evitándolo.
+     "con la astucia que le caracteriza, Buñuel nos va introduciendo en situaciones cada vez más incongruentes, contadas con una gran desenvoltura" <br>
+Atrapar: Agarrar, alcanzar o apresar a alguien o algo que huye, se mueve o se escapa.
+"el portero atrapó el balón; los depredadores atrapan a sus presas para devorarlas"
+      </a> 
+      
+      <a name="terminos_con_B"> Balancear: Mover de un lado a otro una cosa que cuelga u oscila.
+"tomaba la chapa entre los dedos y balanceaba la llave para adelante y para atrás; se quitó los zapatos y balanceó los pies"
+     </a>
+     
+      <a name="terminos_con_C"> Convivir: Vivir o habitar con otro u otros en el mismo lugar.
+"convivió con su marido durante más de veinte años; en Nueva York conviven culturas muy diferentes"
+     </a>
+     
+       <a name="terminos_con_D"> Diálogo: Discusión sobre un asunto o sobre un problema con la intención de llegar a un acuerdo o de encontrar una solución.
+"los sindicatos cumplen también la misión de representar a los trabajadores en las discusiones con los patronos o en las negociaciones o diálogos con los poderes políticos"
+     </a>
+     
+       <a name="terminos_con_E"> Empatía: Participación afectiva de una persona en una realidad ajena a ella, generalmente en los sentimientos de otra persona.
+"la película rechaza los escenarios que pudieran ofrecer comodidad, alivio o cualquier tipo de empatía; en el 90% de las personas sometidas al tratamiento (y en dos de las que recibieron el placebo, quizá por empatía) se produjeron los efectos esperados"
+     </a>
+    
+     
+     <ol> 
+        <li> Harry Potter </li> 
+        <li> Seven </li> 
+        <li> Call me by your name  </li> 
+        <li> Contratiempo  </li> 
+        <li> Interstellar </li> 
+      </ol>
+  </body>
+</html>
